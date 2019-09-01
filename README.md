@@ -5,11 +5,11 @@
  
 1. You can download or clone this repository.
 
-2. Find the >index.html file, and open the file in a modern browser.
+2. Find the ```index.html``` file, and open the file in a modern browser.
 
 3. The Jasmine tests are displayed at the bottom of the index.html page.
 
-4. Open the >jasmine/spec/feedreader.js file to start editing the test suites.
+4. Open the ```jasmine/spec/feedreader.js``` file to start editing the test suites.
  
  If you are not familiar with Jasmine, visit the documentation [here](https://jasmine.github.io).
  
